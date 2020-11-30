@@ -120,7 +120,8 @@
 //}
 
 
-#include<bits/stdc++.h>
+#include<iostream>
+#include<queue>
 using namespace std;
 const int maxx=35;
 int l,r,c,strx,stry,strz,endx,endy,endz;
